@@ -12,7 +12,7 @@
             },
             "author": "Decruw Cedric",
             "description": "test repo to see if all works fine",
-            "keywords": ["test","check"]
+            "keywords": "test"
         },
         {
             "@id": "./pdf/",
